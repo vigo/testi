@@ -13,6 +13,7 @@ Just trying to have some fun with Bash! Available commands are;
 
 * te_assert_equal
 * te_assert_not_equal
+* te_file_operation
 
 ## Install
 
